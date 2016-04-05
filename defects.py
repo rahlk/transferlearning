@@ -14,7 +14,7 @@ def improve():
     all = []
     train, test = explore(dir='Data/Jureczko/')
     for a, b in zip(train, test):
-        me = [test[0][0].split('/')[-2]]
+        me = [b[0].split('/')[-2]]
         for _ in xrange(1):
             new = xtree(train=a, test=b)
             new.to_csv('new.csv', index=False)
