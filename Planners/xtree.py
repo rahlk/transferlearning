@@ -124,7 +124,7 @@ class patches:
                 testInst[ii[0]] = now
                 C.save(name=ii[0], old=then, new=now)
 
-        testInst[testInst.columns[-1]] = None
+        testInst[testInst.columns[-1]] = 1
         i.change.append(C.log)
         return testInst.values.tolist()[0]
 
