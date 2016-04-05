@@ -16,7 +16,7 @@ def improve():
     train, test = explore(dir='Data/Jureczko/')
     for a, b in zip(train, test):
         new = xtree(train=a, test=b)
-        new.to_csv(index=False)
+        new.to_csv('temp.csv', index=False)
         set_trace()
         rdivDemo(e, isLatex=False, globalMinMax=True, high=100, low=0)
 
