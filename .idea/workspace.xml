@@ -2,10 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df7574cc-0a94-4272-9a14-aff20fc586ea" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/transferlearning.iml" afterPath="$PROJECT_DIR$/.idea/transferlearning.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/camel/camel-1.0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/camel/camel-1.2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/camel/camel-1.4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/camel/camel-1.6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/log4j/log4j-1.0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/log4j/log4j-1.1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/log4j/log4j-1.2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/pbeans/pbeans1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/pbeans/pbeans2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/synapse/synapse-1.0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/synapse/synapse-1.1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/synapse/synapse-1.2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/velocity/velocity-1.4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/velocity/velocity-1.5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/velocity/velocity-1.6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/xalan/xalan-2.4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/xalan/xalan-2.5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/xalan/xalan-2.6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/xalan/xalan-2.7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/xerces/xerces-1.0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/xerces/xerces-1.2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/xerces/xerces-1.3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Jureczko/xerces/xerces-1.4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar1.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar3.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar3_numericdefects.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar3_numericdefects.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar4.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar5.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar5_numericdefects.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar5_numericdefects.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar6.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/ar/ar6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/cm/CM1.arff 2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/cm/CM1.arff 3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/cm/cm1.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/jm/JM1.arff 2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/jm/JM1.arff 3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/jm/jm1.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/kc/KC3.arff 2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/kc/KC3.arff 3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/kc/kc2.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/kc/kc3.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/mc/MC1.arff 2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/mc/MC1.arff 3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/mc/MC2.arff 2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/mc/MC2.arff 3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/mc/mc1.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/mc/mc2.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/mw/MW1.arff 2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/mw/MW1.arff 3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/mw/mw1.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC1.arff 2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC1.arff 3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC3.arff 2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC3.arff 3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC32.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC33.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC4.arff 2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC4.arff 3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC42.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC43.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC5.arff 2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC5.arff 3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC52.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/PC53.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/pc1.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/pc1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/pc3.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/pc3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/pc4.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/pc4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/pc5.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc/pc5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc2/PC2.arff 2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc2/PC2.arff 3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc2/PC22.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc2/PC23.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc2/pc2.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/pc2/pc2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/mccabe/toCSV.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/cm/CM12.csv" afterPath="$PROJECT_DIR$/Data/mccabe/cm/CM12.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/cm/CM13.csv" afterPath="$PROJECT_DIR$/Data/mccabe/cm/CM13.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/cm/cm1.csv" afterPath="$PROJECT_DIR$/Data/mccabe/cm/cm1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/jm/JM12.csv" afterPath="$PROJECT_DIR$/Data/mccabe/jm/JM12.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/jm/JM13.csv" afterPath="$PROJECT_DIR$/Data/mccabe/jm/JM13.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/jm/jm1.csv" afterPath="$PROJECT_DIR$/Data/mccabe/jm/jm1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/kc/KC32.csv" afterPath="$PROJECT_DIR$/Data/mccabe/kc/KC32.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/kc/KC33.csv" afterPath="$PROJECT_DIR$/Data/mccabe/kc/KC33.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/kc/kc3.csv" afterPath="$PROJECT_DIR$/Data/mccabe/kc/kc3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/mc/MC12.csv" afterPath="$PROJECT_DIR$/Data/mccabe/mc/MC12.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/mc/MC13.csv" afterPath="$PROJECT_DIR$/Data/mccabe/mc/MC13.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/mc/MC22.csv" afterPath="$PROJECT_DIR$/Data/mccabe/mc/MC22.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/mc/MC23.csv" afterPath="$PROJECT_DIR$/Data/mccabe/mc/MC23.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/mc/mc1.csv" afterPath="$PROJECT_DIR$/Data/mccabe/mc/mc1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/mc/mc2.csv" afterPath="$PROJECT_DIR$/Data/mccabe/mc/mc2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/mw/MW12.csv" afterPath="$PROJECT_DIR$/Data/mccabe/mw/MW12.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/mw/MW13.csv" afterPath="$PROJECT_DIR$/Data/mccabe/mw/MW13.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/mccabe/mw/mw1.csv" afterPath="$PROJECT_DIR$/Data/mccabe/mw/mw1.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/defects.py" afterPath="$PROJECT_DIR$/defects.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/oracle.py" afterPath="$PROJECT_DIR$/tools/oracle.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/stats.py" afterPath="$PROJECT_DIR$/tools/stats.py" />
     </list>
     <ignored path="transferlearning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +134,8 @@
       <file leaf-file-name="defects.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/defects.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="275">
+              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
               </folding>
@@ -38,11 +143,33 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="oracle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/oracle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="methods1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Oracle/methods1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="stats.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tools/stats.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+            <state relative-caret-position="480">
+              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -53,8 +180,8 @@
       <file leaf-file-name="Prediction.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Oracle/Prediction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+            <state relative-caret-position="465">
+              <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -99,6 +226,8 @@
         <option value="$PROJECT_DIR$/Oracle/__init__.py" />
         <option value="$PROJECT_DIR$/Planners/xtree.py" />
         <option value="$PROJECT_DIR$/tools/stats.py" />
+        <option value="$PROJECT_DIR$/Oracle/Prediction.py" />
+        <option value="$PROJECT_DIR$/tools/oracle.py" />
         <option value="$PROJECT_DIR$/defects.py" />
       </list>
     </option>
@@ -109,8 +238,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1076" />
+    <option name="width" value="1280" />
+    <option name="height" value="796" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -185,6 +314,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transferlearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transferlearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,34 +586,41 @@
       <option name="project" value="LOCAL" />
       <updated>1459901729137</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="autocommit&#10;">
+      <created>1459901858220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1459901858220</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1076" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="796" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14765625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.434375" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37848607" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -485,6 +635,64 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/defects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/oracle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oracle/methods1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oracle/Prediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Planners/xtree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="127" column="30" selection-start-line="127" selection-start-column="30" selection-end-line="127" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/defects.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -542,20 +750,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Oracle/Prediction.py">
+    <entry file="file://$PROJECT_DIR$/Oracle/methods1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        <state relative-caret-position="660">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/stats.py">
+    <entry file="file://$PROJECT_DIR$/Oracle/Prediction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        <state relative-caret-position="465">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/oracle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -564,8 +790,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/defects.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="275">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>
