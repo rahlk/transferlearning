@@ -40,7 +40,7 @@ def test_oracle():
         for _ in xrange(10):
             rfTrain = createTbl(a)
             rfTest = createTbl(b)
-            actual = Bugs(b)
+            actual = Bugs(rfTest)
             prdctd = rforest(train=rfTrain, test=rfTest)
             abcd = ABCD(before=actual, after=prdctd)
             ED = np.array([k.stats()[-1] for k in abcd()])
@@ -50,4 +50,5 @@ def test_oracle():
 
 
 if __name__ == '__main__':
-    improve()
+    test_oracle()
+    # improve()
