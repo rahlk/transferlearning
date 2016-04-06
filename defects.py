@@ -28,7 +28,7 @@ def improve(proj='jur'):
         all = []
         me = [b[0].split('/')[-2]]
         luc = [bellwether[0].split('/')[-2]]
-        for _ in xrange(10):
+        for _ in xrange(1):
             # Train on historical data
             new = xtree(train=a, test=b)
             new.to_csv('me.csv', index=False)
@@ -108,10 +108,10 @@ def _test_improve():
     print('#### Jureczko\n```')
     improve(proj='jur')
     print('```')
-
-    print('#### McCabes\n```')
-    improve(proj='mccabe')
-    print('```')
+    # 
+    # print('#### McCabes\n```')
+    # improve(proj='mccabe')
+    # print('```')
 
     print('#### AEEEM\n```')
     improve(proj='aeeem')
