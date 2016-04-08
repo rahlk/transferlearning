@@ -14,6 +14,7 @@ __author__ = 'rkrsn'
 
 
 def improve(proj='jur'):
+
     if proj == 'jur':
         dir = 'Data/Jureczko/'
     elif proj == 'mccabe':
@@ -22,13 +23,16 @@ def improve(proj='jur'):
         dir = 'Data/AEEEM/'
     elif proj == 'Relink':
         dir = 'Data/relink/'
+
     train, test = explore(dir)
     bellwether = train.pop(-2)+test.pop(-2)
+
     for a, b in zip(train, test):
         all = []
         me = [b[0].split('/')[-2]]
         luc = [bellwether[0].split('/')[-2]]
-        for _ in xrange(1):
+        for _ in xrange(4):
+
             # Train on historical data
             new = xtree(train=a, test=b)
             new.to_csv('me.csv', index=False)
@@ -50,6 +54,7 @@ def improve(proj='jur'):
             gain = float("%0.2f" % ((1 - sum(imporved) / sum(actual)) * 100))
             luc.append(gain)
             remove('bellwether.csv')
+
         all.extend([me, luc])
         rdivDemo(all, isLatex=False, globalMinMax=True, high=100, low=0)
 
@@ -79,8 +84,6 @@ def test_oracle(proj="jur"):
             actual = Bugs(rfTest)
             prdctd = rforest(train=rfTrain, test=rfTest)
             abcd = ABCD(before=actual, after=prdctd)
-            Pd = np.array([k.stats()[0] for k in abcd()])
-            Pf = np.array([k.stats()[1] for k in abcd()])
             ED = np.array([k.stats()[-1] for k in abcd()])
             me.append(ED[1])
             # print(b[0].split('/')[-2], "\nPd = %0.2f , Pf = %0.2f " % (Pd[1], Pf[1]))
@@ -91,8 +94,6 @@ def test_oracle(proj="jur"):
             actual = Bugs(rfTest)
             prdctd = rforest(train=rfTrain, test=rfTest)
             abcd = ABCD(before=actual, after=prdctd)
-            Pd = np.array([k.stats()[0] for k in abcd()])
-            Pf = np.array([k.stats()[1] for k in abcd()])
             ED = np.array([k.stats()[-1] for k in abcd()])
             oth.append(ED[1])
             # print("Bellwether", "\nPd = %0.2f , Pf = %0.2f\n" % (Pd[1], Pf[1]))
@@ -105,21 +106,22 @@ def test_oracle(proj="jur"):
 
 
 def _test_improve():
-    print('#### Jureczko\n```')
-    improve(proj='jur')
-    print('```')
-    # 
-    # print('#### McCabes\n```')
-    # improve(proj='mccabe')
+
+    # print('#### Jureczko\n```')
+    # improve(proj='jur')
     # print('```')
-
-    print('#### AEEEM\n```')
-    improve(proj='aeeem')
+    #
+    print('#### McCabes\n```')
+    improve(proj='mccabe')
     print('```')
 
-    print('#### ReLink\n```')
-    improve(proj='relink')
-    print('```')
+    # print('#### AEEEM\n```')
+    # improve(proj='aeeem')
+    # print('```')
+    #
+    # print('#### ReLink\n```')
+    # improve(proj='relink')
+    # print('```')
 
 
 def _test_oracle():
